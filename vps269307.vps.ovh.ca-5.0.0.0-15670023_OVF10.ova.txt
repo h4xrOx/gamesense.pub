@@ -1,0 +1,11 @@
+this file file is so large I decided to just host it
+at https://mega.nz/file/KZlC3KjJ#lqm0E0Mk0h223eOHWDkpyjzhJMxn4AUAGvEWzqJjX68
+
+
+Contents:
+
+h5ngcVA-5.0.0.0-15670023_OVF10.ovf
+h5ngcVA-5.0.0.0-15670023_OVF10.mf
+h5ngcVA-5.0.0.0-15670023_OVF10.cert
+h5ngcVA-5.0.0.0-15670023-system.vmdk
+h5ngcVA-5.0.0.0-15670023-data.vmdk
