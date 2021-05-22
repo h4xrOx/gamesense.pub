@@ -1,0 +1,3 @@
+<bulletin><id>esx-ui-1.33.1-12086396</id><vendor>VMware</vendor><summary>VMware Host Client Update</summary><severity>general</severity><category>general</category><urgency>important</urgency><releaseType>extension</releaseType><description>&lt;ul&gt;
+              &lt;li&gt;test&lt;/li&gt;
+           &lt;/ul&gt;</description><kbUrl>none</kbUrl><contact>VMware</contact><releaseDate>2019-01-31T09:39:13.239731+00:00</releaseDate><platforms><softwarePlatform locale="" version="6.*" productLineID="embeddedEsx"/></platforms><vibList><vibID>VMware_bootbank_esx-ui_1.33.1-12086396</vibID></vibList></bulletin>

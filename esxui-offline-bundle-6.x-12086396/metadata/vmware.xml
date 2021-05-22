@@ -1,0 +1,59 @@
+<metadataResponse>
+  <version>3.0</version>
+  <timestamp>2019-01-31T17:39:13.445928</timestamp>
+  <bulletin>
+    <id>esx-ui-1.33.1-12086396</id>
+    <vendor>VMware</vendor>
+    <summary>VMware Host Client Update</summary>
+    <severity>general</severity>
+    <category>general</category>
+    <urgency>important</urgency>
+    <releaseType>extension</releaseType>
+    <description>&lt;ul&gt;
+              &lt;li&gt;test&lt;/li&gt;
+           &lt;/ul&gt;</description>
+    <kbUrl>none</kbUrl>
+    <contact>VMware</contact>
+    <releaseDate>2019-01-31T09:39:13.239731+00:00</releaseDate>
+    <platforms>
+      <softwarePlatform locale="" version="6.*" productLineID="embeddedEsx"/>
+    </platforms>
+    <vibList>
+      <vib>
+        <vibVersion>1.4.5</vibVersion>
+        <vibID>VMware_bootbank_esx-ui_1.33.1-12086396</vibID>
+        <name>esx-ui</name>
+        <version>1.33.1-12086396</version>
+        <vendor>VMware</vendor>
+        <vibType>bootbank</vibType>
+        <summary>VMware Host Client</summary>
+        <systemReqs>
+          <maintenanceMode>false</maintenanceMode>
+          <swPlatform locale="" version="" productLineID="embeddedEsx"/>
+        </systemReqs>
+        <relationships>
+          <depends>
+            <constraint name="esx-version" relation="&gt;=" version="5.0.0"/>
+          </depends>
+          <conflicts/>
+          <replaces/>
+          <provides/>
+          <compatibleWith/>
+        </relationships>
+        <postInstall>
+          <rebootRequired>false</rebootRequired>
+          <hostdRestart>false</hostdRestart>
+        </postInstall>
+        <vibFile>
+          <sourceUrl></sourceUrl>
+          <relativePath>vib20/esx-ui/VMware_bootbank_esx-ui_1.33.1-12086396.vib</relativePath>
+          <packedSize>3863894</packedSize>
+          <checksum>
+            <checksumType>sha-256</checksumType>
+            <checksum>8edc3dd9fa8b0d961e5a8fcd629710a26cfcd6ce752c2d44036635784af2b0f3</checksum>
+          </checksum>
+        </vibFile>
+      </vib>
+    </vibList>
+  </bulletin>
+</metadataResponse>

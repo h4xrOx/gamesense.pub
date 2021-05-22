@@ -1,0 +1,227 @@
+.divide {
+	padding: 0;
+	margin: 0;
+	margin-bottom: 30px;
+	background: #1e5799;
+	background: -moz-linear-gradient(left,  #1e5799 0%, #f300ff 50%, #e0ff00 100%);
+	background: -webkit-gradient(linear, left top, right top, color-stop(0%,#1e5799), color-stop(50%,#f300ff), color-stop(100%,#e0ff00));
+	background: -webkit-linear-gradient(left,  #1e5799 0%,#f300ff 50%,#e0ff00 100%);
+	background: -o-linear-gradient(left,  #1e5799 0%,#f300ff 50%,#e0ff00 100%);
+	background: -ms-linear-gradient(left,  #1e5799 0%,#f300ff 50%,#e0ff00 100%);
+	background: linear-gradient(to right,  #1e5799 0%,#f300ff 50%,#e0ff00 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', endColorstr='#e0ff00',GradientType=1 );
+
+	height: 3px;
+	border-bottom: 1px solid #000;
+}
+
+#client {
+	font-size: 11pt;
+	margin-top: -30px;
+	width: 100px;
+	height: 60px;
+	background-color: rgba(255,0,100,0.5);
+	border-radius: 10px;
+	color: #eee;
+	padding-top: 35px;
+	text-align: center;
+	font-weight: normal;
+}
+
+#client a:link,
+#client a:hover,
+#client a:visited {
+	color: #eee;
+	text-decoration: none;
+}
+
+#title {
+	margin-bottom: 60px;
+	padding-bottom: 20px;
+}
+
+#title h1 {
+	text-align: center;
+	margin: 0 auto;
+	padding: 0;
+	font-size: 62pt;
+	font-weight: normal;
+	color: #eee;
+	height: 120px;
+}
+
+#title h2 {
+	margin-top: -38px;
+	margin-left: 400px;
+	padding: 0;
+	text-align: center;
+	font-size: 9pt;
+	color: #666;
+}
+
+#title h3 {
+	margin: 0;
+}
+
+#title p {
+	margin: 0;
+	padding: 0;
+}
+
+#title span {
+	color: #95b806;
+}
+
+#header {
+	margin: 0 auto;
+}
+
+#description {
+	margin-top: 25px;
+	color: #999;
+	padding-top: 30px;
+	width: 360px;
+}
+
+#jumbo-container {
+	margin-top: 20px;
+	text-align: center;
+}
+
+#jumbo {
+	border: 1px solid #3a3a3a;
+}
+
+#feats {
+	margin: 0 auto;
+	width: 700px;
+	text-align: left;
+}
+
+#feats .feats-icon {
+	font-size: 32px;
+	float: left;
+}
+
+#feats h3,
+#feats p {
+	margin: 0 0 0 45px;
+}
+
+#feats p {
+	font-size: 13px;
+}
+
+#pre-order {
+	margin-top: 50px;
+}
+
+#pre-order a {
+	margin-left: 3px;
+	margin-right: 3px;
+}
+
+#features-tabs {
+	margin: 0 auto;
+	width: 575px;
+}
+
+#features-tabs-content {
+	margin-top: 20px;
+}
+
+#screenshots {
+	height: 400px;
+	overflow: hidden;
+}
+
+.list-group-item span {
+	float: right;
+	text-align: right;
+}
+
+#footer {
+	text-align: center;
+	margin: 25px 0 25px 0;
+	width: 100%;
+	font-family: 'Raleway', sans-serif;
+	font-size: 10pt;
+	color: #999999;
+}
+
+#footer p {
+	margin: 0 auto;
+}
+
+#notify-release {
+	margin-top: 100px;
+}
+
+#notify-release p {
+	font-size: 16px;
+	margin-bottom: 20px;
+}
+
+.gs-nav-container {
+	width: 1070px;
+	margin: 0 auto;
+	height: 60px;
+	border-bottom: 1px solid #000000;
+	}
+.gs-navbar {
+	position: relative;
+	min-height: 50px;
+	border-radius: 4px;
+	background-image: -webkit-linear-gradient(top, #303030 0%, #151515 100%);
+	background-image: -o-linear-gradient(top, #303030 0%, #151515 100%);
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#303030), to(#151515));
+	background-image: linear-gradient(to bottom, #303030 0%, #151515 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff303030', endColorstr='#ff151515', GradientType=0);
+	filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+	background-repeat: repeat-x;
+	}
+.gs-navbar ul {
+	float: left;
+	margin: 0;
+	padding-left: 0;
+	list-style: none;
+	border-left: 1px solid #161616;
+	border-right: 1px solid #333;
+	border-bottom: 1px solid transparent;
+	}
+.gs-navbar li {
+	float: left;
+	margin-bottom: -1px;
+	position: relative;
+	display: block;
+	height: 60px;
+	border-left: 1px solid #333;
+	border-right: 1px solid #161616;
+	}
+.gs-navbar li.active > a,
+.gs-navbar li.active > a:hover,
+.gs-navbar li.active > a:focus {
+	color: #ffffff;
+	cursor: default;
+	}
+.gs-navbar li a {
+	text-decoration: none;
+	color: #888;
+	margin-right: 2px;
+	border: 1px solid transparent;
+	border-radius: 4px 4px 0 0;
+	transition: color 0.5s ease;
+	position: relative;
+	display: block;
+	font-family: Impact, sans-serif;
+	font-size: 18pt;
+	padding-top: 20px;
+	padding-bottom: 15px;
+	padding-right: 15px;
+	padding-left: 15px;
+	line-height: 23px;
+	}
+.gs-navbar li a:hover {
+	color: #fff;
+	text-decoration: none;
+	}

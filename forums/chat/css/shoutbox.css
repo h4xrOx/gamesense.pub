@@ -1,0 +1,141 @@
+#ajaxChatContent #ajaxChatChatList {
+	background-color:#272726;
+}
+#ajaxChatContent .rowEven {
+	background-color:#282827;
+	padding: 1px 3px 3px 3px;
+}
+#ajaxChatContent .rowOdd {
+	background-color:#313130;
+	padding: 1px 3px 3px 3px;
+}
+#ajaxChatContent .dateTime {
+	font-size: 0.8em;
+}
+#ajaxChatContent .guest {
+	color:gray;
+}
+#ajaxChatContent .user {
+	color:#888;
+}
+#ajaxChatContent .premium {
+	color:#e61515;
+	font-weight: bold;
+}
+#ajaxChatContent .moderator {
+	color:#ffcc00;
+	font-weight: bold;
+}
+#ajaxChatContent .admin {
+	color:#00BFFF;
+	font-weight: bold;
+}
+#ajaxChatContent .chatBot {
+	color:#00AA00;
+	font-weight: bold;
+}
+#ajaxChatContent, #ajaxChatContent * {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+#ajaxChatContent {
+	background-color: #333;
+	font-size: 0.9em;
+	width: 100%;
+	overflow: auto;
+}
+	/* The container of the messages */
+	#ajaxChatContent > div:nth-of-type(1) {
+		color: #d4d4d4;
+		height: 150px;
+		overflow: auto;
+		overflow-x: hidden;
+		overflow-y: scroll;
+		word-wrap: break-word;
+	}
+
+	#ajaxChatContent div::-webkit-scrollbar-track {
+		-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+		background-color: #272726;
+	}
+	#ajaxChatContent div::-webkit-scrollbar {
+		width: 8px;
+		background-color: #272726;
+	}
+	#ajaxChatContent div::-webkit-scrollbar-thumb {
+		background-color: #666;
+	}
+		#ajaxChatContent p.warning {
+			background: #272726;
+			padding: 10px;
+			margin-bottom: 15px;
+		}
+		#ajaxChatContent p {
+			padding: 0;
+		}
+			#ajaxChatContent p > strong {
+				cursor: pointer;
+				border-bottom: 1px dashed #ccc;
+			}
+		/* A welcome message for the users */
+		#ajaxChatContent em {
+			display: none; /* Instead of removing it using javascript, we will use css */
+			font-family: sans-serif;
+			line-height: 100px;
+			color: #eee;
+			font-weight: bold;
+		}
+			#ajaxChatContent em:last-child {
+				display: block;
+			}
+
+	/* The form used to submit the messages */
+	#ajaxChatContent > form {
+		background: #272726;
+		width: 100%;
+		padding: 0;
+		margin: 0;
+		overflow: hidden;
+	}
+		#ajaxChatContent label {
+			display: block;
+			width: 100%;
+			height: 100%;
+			resize: none;
+			cursor: text;
+			padding: 0;
+		}
+			#ajaxChatContent label span {
+				display: block;
+				width: 100%;
+				color: #ccc;
+			}
+		#ajaxChatContent input {
+			width: 95%;
+			background: #1d1d1c;
+			border-top: 1px solid #444;
+			border-bottom: none;
+			border-left: none;
+			border-right: none;
+			cursor: text;
+			resize: none;
+			overflow-x: hidden;
+			overflow-y: auto;
+			font-size: 1.5em;
+			height: 22px;
+			vertical-align:top;
+		}
+#ajaxChatContent p {
+	max-width: none;
+}
+#emojiselector {
+	font-size: 1.5em;
+	width: 5%;
+	vertical-align: top;
+	float: right;
+	border-bottom: none;
+	border-right: none;
+	border-top: 1px solid #444;
+	border-left: none;
+}

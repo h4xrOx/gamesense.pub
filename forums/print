@@ -1,0 +1,56 @@
+body { 
+	font: 12pt/14.5pt "Times New Roman", Times, serif; 
+ }
+
+#content { 
+	color: #333; 
+	top: 0; 
+	margin: 0 0 0 0; 
+    padding: 0;
+	border: none; 
+}
+
+#content-sub {
+	width:99%;
+	font-family:"Times New Roman", Times, serif;
+	font-size:11pt;
+	margin-left:0;
+	border-right:0;
+	}
+.feature { padding: 0px; 
+	margin: 0px; 
+	background-color: #BA5D5D; 
+	white-space:nowrap; 
+	}
+div#leftnav, div#leftnav h3, div#navlist, div#active, div#leftnav#navlist, div#subnavlist,  div#subactive, div#rightnav, #banner-nav, #tools, #search, .topofpage {
+	display:none;
+	}
+
+div#container h2 {
+	border-bottom:1px solid #ccc;
+	text-align:right;
+	color:#999;
+	margin-left:0;
+	}
+#banner {
+	background-color:white;
+	}
+#logo {
+	width:100%;
+	}
+#logo a {
+	text-align:center;
+	}
+#footer {
+	font-family:"Times New Roman", Times, serif;
+	font-size:8pt;
+	color:#666;
+	}
+div#content-sub a:link, div#content-sub a:visited {
+	color:#333333;
+	text-decoration:none;
+	}
+.small {
+	font-size:8pt;
+	font-style:italic;
+	}
