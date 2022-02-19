@@ -1,5 +1,5 @@
 # www.gamesense.pub | https://gamesense.software | GameSense.cloud # https://discord.gg/xuDGth4r5Z <--gamesense cracked here 
-```Get Good, Get GameSense - Forum Source``` & webapikey https://steamcommunity.com/dev/apikey/activate?F4EB2D6CED2B4BDDAD9DF913287E6768&steamid=YOURSTEAMID7777777#shere
+```Get Good, Get GameSense - Forum Source``` & ```STEAM``` web-dev-apikey = https://steamcommunity.com/dev/apikey/activate?F4EB2D6CED2B4BDDAD9DF913287E6768&steamid=YOURSTEAMID7777777#shere
 # https://h4xr0x.cc
 # `http://h4xr0x.club`
 # http://search.h4xr0x.club
