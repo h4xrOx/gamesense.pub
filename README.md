@@ -1,274 +1,78 @@
-# www.gamesense.pub | https://gamesense.software | GameSense.cloud # https://discord.gg/xuDGth4r5Z <--gamesense cracked here 
-```Get Good, Get GameSense - Forum Source``` & ```STEAM``` web-dev-apikey = https://steamcommunity.com/dev/apikey/activate?F4EB2D6CED2B4BDDAD9DF913287E6768&steamid=YOURSTEAMID7777777#shere
+# gamesense.pub - 2018 Forum & CSGO Project Source
+* Get Good, Get GameSense - by h4xr0x * https://h4xr0x.cc
+* live updated version at: https://gamesense.monster
 
-# https://h4xr0x.cc
-# `http://h4xr0x.club`
-# http://search.h4xr0x.club
-# http://gamesense.cloud
+  
+# Original Project Overview:
 
-`THIS WILL BE UPDATED SOON. HERES A READ.ME worth READING IN YOUR MD`
+* The Gamesense.pub 2018 project is an original initiative that includes a comprehensive forum integrated with external applications, leveraging a robust database API. This system is specifically tailored for CSGO (Counter-Strike: Global Offensive) modifications, showcasing an innovative approach to gaming experiences.
 
----- Scanning URL: https://gamesense.pub:443/ ----
-+ https://gamesense.pub:443/admin.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/favicon.ico (CODE:200|SIZE:2)
-==> DIRECTORY: https://gamesense.pub:443/forums/
-+ https://gamesense.pub:443/index.html (CODE:200|SIZE:163)
-+ https://gamesense.pub:443/index.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/info.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/phpinfo.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/robots.txt (CODE:200|SIZE:7)
-==> DIRECTORY: https://gamesense.pub:443/static/
-+ https://gamesense.pub:443/xmlrpc.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/xmlrpc_server.php (CODE:200|SIZE:221)
+# Key Features:
 
----- Entering directory: https://gamesense.pub:443/forums/ ----
-==> DIRECTORY: https://gamesense.pub:443/forums/addons/
-+ https://gamesense.pub:443/forums/admin.php (CODE:200|SIZE:221)
-==> DIRECTORY: https://gamesense.pub:443/forums/cache/
-==> DIRECTORY: https://gamesense.pub:443/forums/img/
-==> DIRECTORY: https://gamesense.pub:443/forums/include/
-+ https://gamesense.pub:443/forums/index.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/info.php (CODE:200|SIZE:221)
-==> DIRECTORY: https://gamesense.pub:443/forums/js/
-==> DIRECTORY: https://gamesense.pub:443/forums/lang/
-+ https://gamesense.pub:443/forums/phpinfo.php (CODE:200|SIZE:221)
-==> DIRECTORY: https://gamesense.pub:443/forums/plugins/
-==> DIRECTORY: https://gamesense.pub:443/forums/shoutbox/
-==> DIRECTORY: https://gamesense.pub:443/forums/style/
-+ https://gamesense.pub:443/forums/xmlrpc.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/xmlrpc_server.php (CODE:200|SIZE:221)
+* Forum Integration: The platform seamlessly integrates a feature-rich forum, fostering a vibrant community where users can engage in discussions, share insights, and stay updated on the latest developments.
 
----- Entering directory: https://gamesense.pub:443/static/ ----
-+ https://gamesense.pub:443/static/admin.php (CODE:200|SIZE:221)
-==> DIRECTORY: https://gamesense.pub:443/static/css/
-==> DIRECTORY: https://gamesense.pub:443/static/fonts/
-==> DIRECTORY: https://gamesense.pub:443/static/img/
-+ https://gamesense.pub:443/static/index.html (CODE:200|SIZE:0)
-+ https://gamesense.pub:443/static/index.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/static/info.php (CODE:200|SIZE:221)
-==> DIRECTORY: https://gamesense.pub:443/static/js/
-+ https://gamesense.pub:443/static/phpinfo.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/static/xmlrpc.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/static/xmlrpc_server.php (CODE:200|SIZE:221)
+* External Applications: Gamesense.pub extends its functionality by integrating external applications, enhancing the overall user experience and providing additional tools related to CSGO modifications.
 
----- Entering directory: https://gamesense.pub:443/forums/addons/ ----
-+ https://gamesense.pub:443/forums/addons/admin.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/addons/index.html (CODE:200|SIZE:1)
-+ https://gamesense.pub:443/forums/addons/index.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/addons/info.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/addons/phpinfo.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/addons/xmlrpc.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/addons/xmlrpc_server.php (CODE:200|SIZE:221)
+* Database API: A sophisticated database API forms the backbone of the system, facilitating efficient data management, storage, and retrieval. This ensures seamless connectivity between various components of the project.
 
----- Entering directory: https://gamesense.pub:443/forums/cache/ ----
-+ https://gamesense.pub:443/forums/cache/.htaccess (CODE:200|SIZE:10)
-+ https://gamesense.pub:443/forums/cache/admin.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/cache/index.html (CODE:200|SIZE:1)
-+ https://gamesense.pub:443/forums/cache/index.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/cache/info.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/cache/phpinfo.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/cache/xmlrpc.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/cache/xmlrpc_server.php (CODE:200|SIZE:221)
+* CSGO Modifications: The primary focus lies in delivering a tailored experience for CSGO enthusiasts. The project actively explores and implements modifications to elevate gameplay, keeping the community at the forefront of innovation.
 
----- Entering directory: https://gamesense.pub:443/forums/img/ ----
-+ https://gamesense.pub:443/forums/img/admin.php (CODE:200|SIZE:221)
-==> DIRECTORY: https://gamesense.pub:443/forums/img/avatars/
-==> DIRECTORY: https://gamesense.pub:443/forums/img/f/
-+ https://gamesense.pub:443/forums/img/index.html (CODE:200|SIZE:1)
-+ https://gamesense.pub:443/forums/img/index.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/img/info.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/img/phpinfo.php (CODE:200|SIZE:221)
-==> DIRECTORY: https://gamesense.pub:443/forums/img/smilies/
-+ https://gamesense.pub:443/forums/img/xmlrpc.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/img/xmlrpc_server.php (CODE:200|SIZE:221)
+# Vision and Impact:
 
----- Entering directory: https://gamesense.pub:443/forums/include/ ----
-+ https://gamesense.pub:443/forums/include/admin.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/include/index.html (CODE:200|SIZE:1)
-+ https://gamesense.pub:443/forums/include/index.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/include/info.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/include/phpinfo.php (CODE:200|SIZE:221)
-==> DIRECTORY: https://gamesense.pub:443/forums/include/poll/
-==> DIRECTORY: https://gamesense.pub:443/forums/include/template/
-==> DIRECTORY: https://gamesense.pub:443/forums/include/user/
-==> DIRECTORY: https://gamesense.pub:443/forums/include/workshop/
-+ https://gamesense.pub:443/forums/include/xmlrpc.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/include/xmlrpc_server.php (CODE:200|SIZE:221)
+* Gamesense.pub stands as a testament to the commitment to excellence in the gaming community. By combining a powerful forum, external applications, and a dynamic database API, the project strives to redefine the CSGO gaming landscape. It serves as a hub for collaboration, knowledge-sharing, and the evolution of gaming modifications.
 
----- Entering directory: https://gamesense.pub:443/forums/js/ ----
-+ https://gamesense.pub:443/forums/js/admin.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/js/index.html (CODE:200|SIZE:1)
-+ https://gamesense.pub:443/forums/js/index.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/js/info.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/js/phpinfo.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/js/xmlrpc.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/js/xmlrpc_server.php (CODE:200|SIZE:221)
+* This revised description aims to provide a clearer and more detailed overview of the Gamesense.pub 2018 project, highlighting its key features and the ## impact it seeks to make in the gaming community.
 
----- Entering directory: https://gamesense.pub:443/forums/lang/ ----
-+ https://gamesense.pub:443/forums/lang/admin.php (CODE:200|SIZE:221)
-==> DIRECTORY: https://gamesense.pub:443/forums/lang/English/
-+ https://gamesense.pub:443/forums/lang/index.html (CODE:200|SIZE:1)
-+ https://gamesense.pub:443/forums/lang/index.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/lang/info.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/lang/phpinfo.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/lang/xmlrpc.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/lang/xmlrpc_server.php (CODE:200|SIZE:221)
+# GameSense / Project Source
+* h4xr0x#1337 the orgional commit and leaked source:
+* https://github.com/h4xrOx/gamesense.pub/commit/314ac72b70e8b03b4973e742790c2c0ffdcd004b
 
----- Entering directory: https://gamesense.pub:443/forums/plugins/ ----
-+ https://gamesense.pub:443/forums/plugins/admin.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/plugins/index.html (CODE:200|SIZE:1)
-+ https://gamesense.pub:443/forums/plugins/index.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/plugins/info.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/plugins/phpinfo.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/plugins/xmlrpc.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/plugins/xmlrpc_server.php (CODE:200|SIZE:221)
+# The Exploit:
+## Data Source Name (DSN) in Sentry
+## Automatic Assignment
 
----- Entering directory: https://gamesense.pub:443/forums/shoutbox/ ----
-+ https://gamesense.pub:443/forums/shoutbox/admin.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/shoutbox/index.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/shoutbox/info.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/shoutbox/phpinfo.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/shoutbox/xmlrpc.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/shoutbox/xmlrpc_server.php (CODE:200|SIZE:221)
+*  When you create a project in Sentry for event monitoring within your application, Sentry automatically assigns a unique Data Source Name (DSN) to your project.
 
----- Entering directory: https://gamesense.pub:443/forums/style/ ----
-+ https://gamesense.pub:443/forums/style/admin.php (CODE:200|SIZE:221)
-==> DIRECTORY: https://gamesense.pub:443/forums/style/imports/
-+ https://gamesense.pub:443/forums/style/index.html (CODE:200|SIZE:1)
-+ https://gamesense.pub:443/forums/style/index.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/style/info.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/style/phpinfo.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/style/xmlrpc.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/style/xmlrpc_server.php (CODE:200|SIZE:221)
+# Purpose of the DSN
 
----- Entering directory: https://gamesense.pub:443/static/css/ ----
-+ https://gamesense.pub:443/static/css/admin.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/static/css/index.html (CODE:200|SIZE:0)
-+ https://gamesense.pub:443/static/css/index.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/static/css/info.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/static/css/phpinfo.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/static/css/xmlrpc.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/static/css/xmlrpc_server.php (CODE:200|SIZE:221)
+* The DSN serves as a crucial configuration parameter, informing the Sentry Software Development Kit (SDK) where to send events. In the absence of this 
+* value, the SDK attempts to read it from the SENTRY_DSN environment variable. If that variable is also unavailable, the SDK refrains from sending any        * events. Note that in environments without a process environment, such as the browser, this fallback mechanism does not apply.
 
----- Entering directory: https://gamesense.pub:443/static/fonts/ ----
-+ https://gamesense.pub:443/static/fonts/admin.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/static/fonts/index.html (CODE:200|SIZE:0)
-+ https://gamesense.pub:443/static/fonts/index.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/static/fonts/info.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/static/fonts/phpinfo.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/static/fonts/xmlrpc.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/static/fonts/xmlrpc_server.php (CODE:200|SIZE:221)
+# Locating Your DSN
 
----- Entering directory: https://gamesense.pub:443/static/img/ ----
-+ https://gamesense.pub:443/static/img/admin.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/static/img/index.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/static/img/info.php (CODE:200|SIZE:221)
-==> DIRECTORY: https://gamesense.pub:443/static/img/payment/
-+ https://gamesense.pub:443/static/img/phpinfo.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/static/img/xmlrpc.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/static/img/xmlrpc_server.php (CODE:200|SIZE:221)
+* To retrieve your DSN, navigate to Settings -> Projects -> Client Keys (DSN) in [sentry.io](http://sentry.io/).
 
----- Entering directory: https://gamesense.pub:443/static/js/ ----
-+ https://gamesense.pub:443/static/js/admin.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/static/js/index.html (CODE:200|SIZE:0)
-+ https://gamesense.pub:443/static/js/index.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/static/js/info.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/static/js/phpinfo.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/static/js/xmlrpc.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/static/js/xmlrpc_server.php (CODE:200|SIZE:221)
+# Components of the DSN
 
----- Entering directory: https://gamesense.pub:443/forums/img/avatars/ ----
-+ https://gamesense.pub:443/forums/img/avatars/admin.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/img/avatars/index.html (CODE:200|SIZE:1)
-+ https://gamesense.pub:443/forums/img/avatars/index.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/img/avatars/info.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/img/avatars/phpinfo.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/img/avatars/xmlrpc.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/img/avatars/xmlrpc_server.php (CODE:200|SIZE:221)
+* The DSN comprises several components, including the protocol, public key, server address, and project identifier. The structure is as follows:
 
----- Entering directory: https://gamesense.pub:443/forums/img/f/ ----
-+ https://gamesense.pub:443/forums/img/f/admin.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/img/f/index.html (CODE:200|SIZE:1)
-+ https://gamesense.pub:443/forums/img/f/index.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/img/f/info.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/img/f/phpinfo.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/img/f/xmlrpc.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/img/f/xmlrpc_server.php (CODE:200|SIZE:221)
+```{PROTOCOL}://{PUBLIC_KEY}:{SECRET_KEY}@{HOST}{PATH}/{PROJECT_ID}```
 
----- Entering directory: https://gamesense.pub:443/forums/img/smilies/ ----
-+ https://gamesense.pub:443/forums/img/smilies/admin.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/img/smilies/index.html (CODE:200|SIZE:1)
-+ https://gamesense.pub:443/forums/img/smilies/index.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/img/smilies/info.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/img/smilies/phpinfo.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/img/smilies/xmlrpc.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/img/smilies/xmlrpc_server.php (CODE:200|SIZE:221)
+#DSN Settings for Production Build Packages
 
----- Entering directory: https://gamesense.pub:443/forums/include/poll/ ----
-+ https://gamesense.pub:443/forums/include/poll/admin.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/include/poll/index.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/include/poll/info.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/include/poll/phpinfo.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/include/poll/xmlrpc.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/include/poll/xmlrpc_server.php (CODE:200|SIZE:221)
+### The settings for generating production build packages and resources for the [skeet.cc](http://skeet.cc/) / (gamesense project)(https://gamesense.pub are as follows:
 
----- Entering directory: https://gamesense.pub:443/forums/include/template/ ----
-+ https://gamesense.pub:443/forums/include/template/admin.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/include/template/index.html (CODE:200|SIZE:1)
-+ https://gamesense.pub:443/forums/include/template/index.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/include/template/info.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/include/template/phpinfo.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/include/template/xmlrpc.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/include/template/xmlrpc_server.php (CODE:200|SIZE:221)
+*  URI: "https://app.getsentry.com/24287"
+*  Source Map: "[api-iam.intercom.io](http://api-iam.intercom.io/)"
+*  Key: “f305de69cac64a84a494556d5303dc2d”
+*  Project ID: “24287”
+*  resulting “POST” request for a plain “JSON” payload would transmit to:
+*  https://f305de69cac64a84a494556d5303dc2d@app.getsentry.com/24287
 
----- Entering directory: https://gamesense.pub:443/forums/include/user/ ----
-+ https://gamesense.pub:443/forums/include/user/admin.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/include/user/index.html (CODE:200|SIZE:1)
-+ https://gamesense.pub:443/forums/include/user/index.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/include/user/info.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/include/user/phpinfo.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/include/user/xmlrpc.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/include/user/xmlrpc_server.php (CODE:200|SIZE:221)
+# Note::> “Secret Key”
 
----- Entering directory: https://gamesense.pub:443/forums/include/workshop/ ----
-+ https://gamesense.pub:443/forums/include/workshop/admin.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/include/workshop/index.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/include/workshop/info.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/include/workshop/phpinfo.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/include/workshop/xmlrpc.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/include/workshop/xmlrpc_server.php (CODE:200|SIZE:221)
+* The secret part of the DSN is optional and effectively deprecated. While it is still honored by clients, future versions of Sentry will ignore it. Ensure compatibility with the current version.
 
----- Entering directory: https://gamesense.pub:443/forums/lang/English/ ----
-+ https://gamesense.pub:443/forums/lang/English/admin.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/lang/English/index.html (CODE:200|SIZE:1)
-+ https://gamesense.pub:443/forums/lang/English/index.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/lang/English/info.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/lang/English/phpinfo.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/lang/English/xmlrpc.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/lang/English/xmlrpc_server.php (CODE:200|SIZE:221)
+# Security Implications
 
----- Entering directory: https://gamesense.pub:443/forums/style/imports/ ----
-+ https://gamesense.pub:443/forums/style/imports/admin.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/style/imports/index.html (CODE:200|SIZE:1)
-+ https://gamesense.pub:443/forums/style/imports/index.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/style/imports/info.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/style/imports/phpinfo.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/style/imports/xmlrpc.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/forums/style/imports/xmlrpc_server.php (CODE:200|SIZE:221)
+* The Sentry DSN was discovered in a minified and obfuscated JavaScript code on the website gamesense.pub, leaking the forum source. The code used * "https://app.intercom.com/" for building and securely integrating projects. The leaked DSN and version information were found in the mentioned JS file.
 
----- Entering directory: https://gamesense.pub:443/static/img/payment/ ----
-+ https://gamesense.pub:443/static/img/payment/admin.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/static/img/payment/index.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/static/img/payment/info.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/static/img/payment/phpinfo.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/static/img/payment/xmlrpc.php (CODE:200|SIZE:221)
-+ https://gamesense.pub:443/static/img/payment/xmlrpc_server.php (CODE:200|SIZE:221)
+## h4xr0x#1337 intends to update:
 
------------------
-END_TIME: Sun Feb 27 03:23:56 2022
-DOWNLOADED: 119912
+* Due to community demand, there is an intention to update the entire project, making it freely available to everyone. This includes the website, integrations, loader client, dynamic libraries, source code, and Lua scripts used for modifications in CSGO.
 
-![image](https://user-images.githubusercontent.com/65768277/154812806-6f527c68-1936-46c8-89eb-8ebdc02316ee.png)
-![image](https://user-images.githubusercontent.com/65768277/154812813-16e78f50-dc21-4b8e-aac6-82460c00aac6.png)
-![image](https://user-images.githubusercontent.com/65768277/154812833-fefc1b3c-0809-45c9-84a4-58b337b76379.png)
+### Additional Resources
 
+* [ Link to the leaked JS file: https://raw.githubusercontent.com/h4xrOx/gamesense.pub/main/forums/wscum25h
+
+* For more information on building integration with intercom, refer to Intercom’s developer documentation https://developers.intercom.com/docs/build-an-integration/
