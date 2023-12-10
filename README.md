@@ -1,8 +1,11 @@
 # gamesense.pub
 Get Good, Get GameSense - Forum Source
+
 # gamesense.pub - 2018 Forum & CSGO Project Source
-* Get Good, Get GameSense - by h4xr0x * https://h4xr0x.cc
+
+* Get Good, Get GameSense - by h4xr0x#1337 https://h4xr0x.cc
 * live updated version at: https://gamesense.monster
+* Want more? Join https://h4xr0x.cc or https://discord.gg/Yc78HjqXVU
 
   
 # Original Project Overview:
@@ -38,7 +41,9 @@ Get Good, Get GameSense - Forum Source
 # Purpose of the DSN
 
 * The DSN serves as a crucial configuration parameter, informing the Sentry Software Development Kit (SDK) where to send events. In the absence of this 
-* value, the SDK attempts to read it from the SENTRY_DSN environment variable. If that variable is also unavailable, the SDK refrains from sending any        * events. Note that in environments without a process environment, such as the browser, this fallback mechanism does not apply.
+* value, the SDK attempts to read it from the SENTRY_DSN environment variable. If that variable is also unavailable, the SDK refrains from sending any events.
+
+# Note:> that in environments without a process environment, such as the browser, this fallback mechanism does not apply.
 
 # Locating Your DSN
 
@@ -50,9 +55,9 @@ Get Good, Get GameSense - Forum Source
 
 ```{PROTOCOL}://{PUBLIC_KEY}:{SECRET_KEY}@{HOST}{PATH}/{PROJECT_ID}```
 
-#DSN Settings for Production Build Packages
+# DSN Settings for Production Build Packages
 
-### The settings for generating production build packages and resources for the [skeet.cc](http://skeet.cc/) / (gamesense project)(https://gamesense.pub are as follows:
+### The settings for generating production build packages and resources for the [skeet.cc](http://skeet.cc/) \ (gamesense project)(https://gamesense.pub are as follows:
 
 *  URI: "https://app.getsentry.com/24287"
 *  Source Map: "[api-iam.intercom.io](http://api-iam.intercom.io/)"
@@ -61,7 +66,7 @@ Get Good, Get GameSense - Forum Source
 *  resulting “POST” request for a plain “JSON” payload would transmit to:
 *  https://f305de69cac64a84a494556d5303dc2d@app.getsentry.com/24287
 
-# Note::> “Secret Key”
+# Note:> “Secret Key”
 
 * The secret part of the DSN is optional and effectively deprecated. While it is still honored by clients, future versions of Sentry will ignore it. Ensure compatibility with the current version.
 
