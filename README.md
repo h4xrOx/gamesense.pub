@@ -1,16 +1,20 @@
 # gamesense.pub
 Get Good, Get GameSense - Forum Source
-![image](https://github.com/h4xrOx/gamesense.pub/assets/65768277/07a79b99-0679-4dd6-8a59-2859618d24f2)
-
-# gamesense.pub - 2018 Forum & CSGO Project Source
-![image](https://github.com/h4xrOx/gamesense.pub/assets/65768277/33cb6897-e4f1-4730-90d9-4acaf09461df)
 
 * Get Good, Get GameSense - by h4xr0x#1337 https://h4xr0x.cc
 * live updated version at: https://gamesense.cloud
 * docs: https://docs.gamesense.cloud
 * Want more? Join https://h4xr0x.cc or https://discord.gg/Yc78HjqXVU
 
-  ![image](https://github.com/h4xrOx/gamesense.pub/assets/65768277/6294a38f-c98e-421d-bc95-5a52e9d9288f)
+
+# gamesense.pub - 2018 Forum & CSGO Project Source
+
+![image](https://github.com/h4xrOx/gamesense.pub/assets/65768277/07a79b99-0679-4dd6-8a59-2859618d24f2)
+
+![image](https://github.com/h4xrOx/gamesense.pub/assets/65768277/33cb6897-e4f1-4730-90d9-4acaf09461df)
+
+
+![image](https://github.com/h4xrOx/gamesense.pub/assets/65768277/6294a38f-c98e-421d-bc95-5a52e9d9288f)
 
 # Original Project Overview:
 
