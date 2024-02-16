@@ -2,7 +2,7 @@
 Get Good, Get GameSense - Forum Source
 
 * Get Good, Get GameSense - by h4xr0x#1337 https://h4xr0x.cc
-* live updated version at: https://gamesense.cloud
+* live updated version at: https://gamesense.monster
 * docs: https://docs.gamesense.cloud
 * Want more? Join https://h4xr0x.cc or https://discord.gg/Yc78HjqXVU
 
